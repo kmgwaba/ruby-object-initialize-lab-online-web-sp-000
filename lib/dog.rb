@@ -4,7 +4,7 @@ class Dog
     @breed = breed
     @breed = "Mutt!"
 
-  
+
 
   end
 
