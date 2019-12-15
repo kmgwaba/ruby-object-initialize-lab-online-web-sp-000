@@ -1,4 +1,6 @@
 class Person
-  initialize @name = Person.new
+  def initialize(name)
+    @name = name
+  end 
 
 end
