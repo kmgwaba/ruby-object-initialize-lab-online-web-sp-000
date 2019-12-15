@@ -1,2 +1,3 @@
-class initialize Person
+class Person
+  
 end
